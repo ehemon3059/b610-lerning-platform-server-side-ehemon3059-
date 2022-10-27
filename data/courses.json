@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "course_name": "front End"
+    },
+    {
+        "id": "02",
+        "course_name": "PHP"
+    },
+    {
+        "id": "03",
+        "course_name": "C++"
+    },
+    {
+        "id": "04",
+        "course_name": "C#"
+    },
+    {
+        "id": "05",
+        "course_name": "Java"
+    },
+    {
+        "id": "06",
+        "course_name": "Python"
+    },
+    {
+        "id": "07",
+        "course_name": "SQL"
+    },
+    {
+        "id": "08",
+        "course_name": "MongoDB"
+    }
+]
