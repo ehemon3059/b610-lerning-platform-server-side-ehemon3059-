@@ -21,3 +21,8 @@ app.get('/courses/:id', (req,res) => {
     const data = courses.find(cours => cours.id == id)
     res.send(data);
 })
+
+
+app.listen(port , () => {
+    console.log('Course api running', port);
+})
