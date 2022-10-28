@@ -1,34 +1,45 @@
 [
     {
         "id": "01",
-        "course_name": "front End"
+        "course_name": "front End",
+        "details" : "Front-end engineers work closely with designers to make websites beautiful, functional, and fast. This Career Path will teach you not only the necessary languages and technologies, but how to think like a front-end engineer, too. By the end, you’ll have the portfolio and interview skills you need to start your new career.",
+        "price": "20",
+        "img_URL": "https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190900998/130370493-frontend-development-web-banner-concept-website-interface.jpg"
     },
     {
         "id": "02",
-        "course_name": "PHP"
+        "course_name": "PHP",
+        "details" : " 'PHP' is a commonly used programming language that performs dynamic functions like collecting    deleting    and modifying the database    In addition to these    it can also encrypt data and output any text like HTML    XMTML    XML    and perform other functions    Students can pursue PHP certification courses from online platforms as there are no degree courses in' PHP '  'PHP' courses are offered by top online platforms like Coursera    Udemy    LinkedIn Learning    etc    They are short-term PHP courses that can be completed within a year at a reasonable cost    Udemy PHP Courses are one of the best PHP courses available online    as they are subject to discounts of up to 90% along with a certificate of completion    The top PHP courses across various online platforms are mentioned below",
+        "price": "60",
+        "img_URL": "https://kwiksaf.com/wp-content/uploads/2022/03/php-image.jpg"
     },
     {
         "id": "03",
-        "course_name": "C++"
+        "course_name": "C++",
+        "details" : "C++Language Course Details: Candidates who are desirous of getting Certification in C++ can check for the course-related info. You can avail information on Duration, Fee, Eligibility, Admission, Syllabus, Jobs, and Salary Offered. Students having a basic knowledge of Computers can undergo this course and have a great career ahead. You can have diverse options to join after finishing the C++ Certification Course. C++is an object-oriented programming language that is simple and modern and a general-purpose programming language for application development. This can be great for students who wish to enter the Object-Oriented Programming.",
+        "price": "80",
+        "img_URL": "https://engineering.fb.com/wp-content/uploads/2015/06/1522635669452_11.jpg"
     },
     {
         "id": "04",
-        "course_name": "C#"
+        "course_name": "C#",
+        "details" : "C#is an object-oriented, component-oriented programming language. C# provides language constructs to directly support these concepts, making C# a natural language in which to create and use software components. Since its origin, C# has added features to support new workloads and emerging software design practices. At its core, C# is an object-oriented language. You define types and their behavior.",
+        "price": "80",
+        "img_URL": "https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2021/03/2021_C9_top-level_programs_target-typed_Featured_article_image_A-01.png?itok=hN4XnLJr"
     },
     {
         "id": "05",
-        "course_name": "Java"
+        "course_name": "Java",
+        "details" : "'Java'is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes 'Java' one of the most popular programming languages.'Java'is a popular programming language, created in 1995.'It'is owned by Oracle, and more than 3 billion devices run Java.'It'is used for:'Mobile'applications (specially Android apps)'Desktop'applications . 'Web'applications . 'Web'servers and application servers . 'Games'. 'Databaseconnection'.  'Andmuch, much more!'",
+        "price": "80",
+        "img_URL": "https://imageio.forbes.com/specials-images/imageserve/5e7cce1921695a000666cc29/Java-14/960x0.jpg?format=jpg&width=960"
     },
     {
         "id": "06",
-        "course_name": "Python"
-    },
-    {
-        "id": "07",
-        "course_name": "SQL"
-    },
-    {
-        "id": "08",
-        "course_name": "MongoDB"
+        "course_name": "Python",
+        "details" : "'Python'is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed. Often,programmers fall in love with Python because of the increased productivity it provides. Since there is no compilation step, the edit-test-debug cycle is incredibly fast. Debugging Python programs is easy: a bug or bad input will never cause a segmentation fault. Instead, when the interpreter discovers an error, it raises an exception. When the program doesn't catch the exception, the interpreter prints a stack trace. A source level debugger allows inspection of local and global variables, evaluation of arbitrary expressions, setting breakpoints, stepping through the code a line at a time, and so on. The debugger is written in Python itself, testifying to Python's introspective power. On the other hand, often the quickest way to debug a program is to add a few print statements to the source: the fast edit-test-debug cycle makes this simple approach very effective.",
+        "price": "80",
+        "img_URL": "https://content.techgig.com/photo/84677604/5-Reasons-to-use-Python-programming-language-for-web-app-development.jpg"
     }
+    
 ]
